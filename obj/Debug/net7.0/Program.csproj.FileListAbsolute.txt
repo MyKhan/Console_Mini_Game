@@ -1,0 +1,14 @@
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/bin/Debug/net7.0/Program
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/bin/Debug/net7.0/Program.deps.json
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/bin/Debug/net7.0/Program.runtimeconfig.json
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/bin/Debug/net7.0/Program.dll
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/bin/Debug/net7.0/Program.pdb
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/obj/Debug/net7.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/obj/Debug/net7.0/Program.AssemblyInfoInputs.cache
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/obj/Debug/net7.0/Program.AssemblyInfo.cs
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/obj/Debug/net7.0/Program.csproj.CoreCompileInputs.cache
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/obj/Debug/net7.0/Program.dll
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/obj/Debug/net7.0/refint/Program.dll
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/obj/Debug/net7.0/Program.pdb
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/obj/Debug/net7.0/Program.genruntimeconfig.cache
+/Users/apunaccount/Documents/Programming/GitHub/C#/Challenges/Projects/Methods_Mini_Game/obj/Debug/net7.0/ref/Program.dll
