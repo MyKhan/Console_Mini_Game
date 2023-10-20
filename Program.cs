@@ -25,7 +25,7 @@ string player = states[0];
 int food = 0;
 
 InitializeGame();
-while (!shouldExit) 
+while (!shouldExit && !TerminalResized()) 
 {
     Move();
 }
