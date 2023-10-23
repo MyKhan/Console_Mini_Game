@@ -1,0 +1,5 @@
+# ignore ALL files in ANY directory named obj
+obj/
+
+# ignore ALL files in ANY directory named bin
+bin/
